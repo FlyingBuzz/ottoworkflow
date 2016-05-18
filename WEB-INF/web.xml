@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+
+	<!-- Servlets -->
+
+	<servlet>
+		<servlet-name>QuoteCookies</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.Utilities.QuoteCookies</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ExternalFiles</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.ExternalFiles</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>Uploader</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.FileHandlers.Uploader</servlet-class>
+	</servlet>
+		
+	<servlet>
+		<servlet-name>WorkFlowServlet</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.RPCService.WorkFlowServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>Utilities</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.Utilities.MainUtilities</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ExportOrder</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.ExportOrder</servlet-class>
+	</servlet>
+
+
+	<servlet>
+		<servlet-name>PDFPrintout</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.PDFPrintout</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>DSTImage</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.DSTImagePreview</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ArtworkProductPreview</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.ArtworkProductPreview</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ProductPreview</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.ProductPreview</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>OutputCSV</servlet-name>
+		<servlet-class>com.ottocap.NewWorkFlow.server.OutputCSV</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>WorkFlowServlet</servlet-name>
+		<url-pattern>/newworkflow/workflowservice</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>DSTImage</servlet-name>
+		<url-pattern>/newworkflow/dstimage/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>Utilities</servlet-name>
+		<url-pattern>/newworkflow/utilities/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>QuoteCookies</servlet-name>
+		<url-pattern>/newworkflow/quotecookies/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>Uploader</servlet-name>
+		<url-pattern>/newworkflow/uploader</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>ExportOrder</servlet-name>
+		<url-pattern>/newworkflow/exportorder/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>PDFPrintout</servlet-name>
+		<url-pattern>/newworkflow/pdfprintout/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>ExternalFiles</servlet-name>
+		<url-pattern>/newworkflow/ottoflow/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>ProductPreview</servlet-name>
+		<url-pattern>/newworkflow/productpreview/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>ArtworkProductPreview</servlet-name>
+		<url-pattern>/newworkflow/artworkproductpreview/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>OutputCSV</servlet-name>
+		<url-pattern>/newworkflow/outputcsv/*</url-pattern>
+	</servlet-mapping>
+
+	<!-- Default page to serve -->
+	<welcome-file-list>
+		<welcome-file>NewWorkFlow.html</welcome-file>
+	</welcome-file-list>
+
+</web-app>

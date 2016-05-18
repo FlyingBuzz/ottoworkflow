@@ -1,0 +1,823 @@
+.productinfo-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/step1normal.gif)
+		no-repeat;
+}
+
+.productinfoselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/step1over.gif)
+		no-repeat;
+}
+
+.productinfo-PushButton-up-hovering,.productinfo-PushButton-down-hovering,.productinfoselected-PushButton-up-hovering,.productinfoselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/step1over.gif)
+		no-repeat;
+}
+
+/* QUOTE */
+.customerinfo-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step2normal.gif)
+		no-repeat;
+}
+
+.customerinfoselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step2over.gif)
+		no-repeat;
+}
+
+.customerinfo-PushButton-up-hovering,.customerinfo-PushButton-down-hovering,.customerinfoselected-PushButton-up-hovering,.customerinfoselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step2over.gif)
+		no-repeat;
+}
+
+.reviewquote-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step3normal.gif)
+		no-repeat;
+}
+
+.reviewquoteselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step3over.gif)
+		no-repeat;
+}
+
+.reviewquote-PushButton-up-hovering,.reviewquote-PushButton-down-hovering,.reviewquoteselected-PushButton-up-hovering,.reviewquoteselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step3over.gif)
+		no-repeat;
+}
+
+.savequote-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step4normal.gif)
+		no-repeat;
+}
+
+.savequoteselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step4over.gif)
+		no-repeat;
+}
+
+.savequote-PushButton-up-hovering,.savequote-PushButton-down-hovering,.savequoteselected-PushButton-up-hovering,.savequoteselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/step4over.gif)
+		no-repeat;
+}
+
+/* VIRTUAL SAMPLE */
+.customerinfovirtualsample-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step2normal.gif)
+		no-repeat;
+}
+
+.customerinfovirtualsampleselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step2over.gif)
+		no-repeat;
+}
+
+.customerinfovirtualsample-PushButton-up-hovering,.customerinfovirtualsample-PushButton-down-hovering,.customerinfovirtualsampleselected-PushButton-up-hovering,.customerinfovirtualsampleselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step2over.gif)
+		no-repeat;
+}
+
+.reviewvirtualsample-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step3normal.gif)
+		no-repeat;
+}
+
+.reviewvirtualsampleselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step3over.gif)
+		no-repeat;
+}
+
+.reviewvirtualsample-PushButton-up-hovering,.reviewvirtualsample-PushButton-down-hovering,.reviewvirtualsampleselected-PushButton-up-hovering,.reviewvirtualsampleselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step3over.gif)
+		no-repeat;
+}
+
+.saveordervirtualsample-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step4normal.gif)
+		no-repeat;
+}
+
+.saveordervirtualsampleselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step4over.gif)
+		no-repeat;
+}
+
+.saveordervirtualsample-PushButton-up-hovering,.saveordervirtualsample-PushButton-down-hovering,.saveordervirtualsampleselected-PushButton-up-hovering,.saveordervirtualsampleselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/step4over.gif)
+		no-repeat;
+}
+/* ORDER */
+.customerinfoorder-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step2normal.gif)
+		no-repeat;
+}
+
+.customerinfoorderselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step2over.gif)
+		no-repeat;
+}
+
+.customerinfoorder-PushButton-up-hovering,.customerinfoorder-PushButton-down-hovering,.customerinfoorderselected-PushButton-up-hovering,.customerinfoorderselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step2over.gif)
+		no-repeat;
+}
+
+.revieworder-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step3normal.gif)
+		no-repeat;
+}
+
+.revieworderselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step3over.gif)
+		no-repeat;
+}
+
+.revieworder-PushButton-up-hovering,.revieworder-PushButton-down-hovering,.revieworderselected-PushButton-up-hovering,.revieworderselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step3over.gif)
+		no-repeat;
+}
+
+.saveorder-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step4normal.gif)
+		no-repeat;
+}
+
+.saveorderselected-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step4over.gif)
+		no-repeat;
+}
+
+.saveorder-PushButton-up-hovering,.saveorder-PushButton-down-hovering,.saveorderselected-PushButton-up-hovering,.saveorderselected-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/step4over.gif)
+		no-repeat;
+}
+
+.viewcart-PushButton {
+	width: 157px;
+	height: 31px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/viewcartnormal.gif)
+		no-repeat;
+}
+
+.viewcart-PushButton-up-hovering,.viewcart-PushButton-down-hovering {
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/viewcartover.gif)
+		no-repeat;
+}
+
+.customerinfostep1button-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/backstep1normal.gif)
+		no-repeat;
+}
+
+.customerinfostep1button-PushButton-up-hovering,.customerinfostep1button-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/backstep1over.gif)
+		no-repeat;
+}
+
+.customerinfostep3button-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/gotostep3normal.gif)
+		no-repeat;
+}
+
+.customerinfostep3button-PushButton-up-hovering,.customerinfostep3button-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/gotostep3over.gif)
+		no-repeat;
+}
+
+.customerinfostep3virtualsamplebutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/gotostep3normal.gif)
+		no-repeat;
+}
+
+.customerinfostep3virtualsamplebutton-PushButton-up-hovering,.customerinfostep3virtualsamplebutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/gotostep3over.gif)
+		no-repeat;
+}
+
+.customerinfostep3orderbutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/gotostep3normal.gif)
+		no-repeat;
+}
+
+.customerinfostep3orderbutton-PushButton-up-hovering,.customerinfostep3orderbutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/gotostep3over.gif)
+		no-repeat;
+}
+
+.pushadddecoration-PushButton {
+	width: 131px;
+	height: 29px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/adddecorationnormal.gif)
+		no-repeat;
+}
+
+.pushadddecoration-PushButton-up-hovering,.pushadddecoration-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/adddecorationover.gif)
+		no-repeat;
+}
+
+.pushdeletecross-PushButton {
+	width: 19px;
+	height: 21px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/pushdeletecrossnormal.gif)
+		no-repeat;
+}
+
+.pushdeletecross-PushButton-up-hovering,.pushdeletecross-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/pushdeletecrossover.gif)
+		no-repeat;
+}
+
+.revieworderstep1button-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/backstep1normal.gif)
+		no-repeat;
+}
+
+.revieworderstep1button-PushButton-up-hovering,.revieworderstep1button-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/backstep1over.gif)
+		no-repeat;
+}
+
+.revieworderstep2button-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/backstep2normal.gif)
+		no-repeat;
+}
+
+.revieworderstep2button-PushButton-up-hovering,.revieworderstep2button-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/backstep2over.gif)
+		no-repeat;
+}
+
+.revieworderstep2virtualsamplebutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/backstep2normal.gif)
+		no-repeat;
+}
+
+.revieworderstep2virtualsamplebutton-PushButton-up-hovering,.revieworderstep2virtualsamplebutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/backstep2over.gif)
+		no-repeat;
+}
+
+.revieworderstep2orderbutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/backstep2normal.gif)
+		no-repeat;
+}
+
+.revieworderstep2orderbutton-PushButton-up-hovering,.revieworderstep2orderbutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/backstep2over.gif)
+		no-repeat;
+}
+
+.revieworderstep4button-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/gotostep4normal.gif)
+		no-repeat;
+}
+
+.revieworderstep4button-PushButton-up-hovering,.revieworderstep4button-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/gotostep4over.gif)
+		no-repeat;
+}
+
+.revieworderstep4virtualsamplebutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/gotostep4normal.gif)
+		no-repeat;
+}
+
+.revieworderstep4virtualsamplebutton-PushButton-up-hovering,.revieworderstep4virtualsamplebutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/gotostep4over.gif)
+		no-repeat;
+}
+
+.revieworderstep4orderbutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/gotostep4normal.gif)
+		no-repeat;
+}
+
+.revieworderstep4orderbutton-PushButton-up-hovering,.revieworderstep4orderbutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/gotostep4over.gif)
+		no-repeat;
+}
+
+.pushdeleteitem-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/deleteproductbuttonnormal.gif)
+		no-repeat;
+}
+
+.pushdeleteitem-PushButton-up-hovering,.pushdeleteitem-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/deleteproductbuttonover.gif)
+		no-repeat;
+}
+
+.pushcopythisitem-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/copyproductbuttonnormal.gif)
+		no-repeat;
+}
+
+.pushcopythisitem-PushButton-up-hovering,.pushcopythisitem-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/copyproductbuttonover.gif)
+		no-repeat;
+}
+
+.pushaddnewitem-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/addnewitembuttonnormal.gif)
+		no-repeat;
+}
+
+.pushaddnewitem-PushButton-up-hovering,.pushaddnewitem-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/addnewitembuttonover.gif)
+		no-repeat;
+}
+
+.pushgotostepbutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/gotostep2normal.gif)
+		no-repeat;
+}
+
+.pushgotostepbutton-PushButton-up-hovering,.pushgotostepbutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/gotostep2over.gif)
+		no-repeat;
+}
+
+.pushgotostepbuttonvirtualsample-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/gotostep2normal.gif)
+		no-repeat;
+}
+
+.pushgotostepbuttonvirtualsample-PushButton-up-hovering,.pushgotostepbuttonvirtualsample-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/gotostep2over.gif)
+		no-repeat;
+}
+
+.pushdeletelogo-PushButton {
+	width: 49px;
+	height: 17px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/removenormal.jpg)
+		no-repeat;
+}
+
+.pushdeletelogo-PushButton-up-hovering,.pushdeletelogo-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/removeover.jpg)
+		no-repeat;
+}
+
+.pushaddnewlogo-PushButton {
+	width: 121px;
+	height: 29px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/addalogonormal.gif)
+		no-repeat;
+}
+
+.pushaddnewlogo-PushButton-up-hovering,.pushaddnewlogo-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/addalogoover.gif)
+		no-repeat;
+}
+
+.nextitem-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/nextitemnormal.gif)
+		no-repeat;
+}
+
+.nextitem-PushButton-up-hovering,.nextitem-PushButton-down-hovering {
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/nextitemover.gif)
+		no-repeat;
+}
+
+.previousitem-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/previousitemnormal.gif)
+		no-repeat;
+}
+
+.previousitem-PushButton-up-hovering,.previousitem-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/previousitemover.gif)
+		no-repeat;
+}
+
+.reviewprintoutbutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/pdfprintoutnormal.gif)
+		no-repeat;
+}
+
+.reviewprintoutbutton-PushButton-up-hovering,.reviewprintoutbutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/quote/pdfprintoutover.gif)
+		no-repeat;
+}
+
+.reviewprintoutvirtualsamplebutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/pdfprintoutnormal.gif)
+		no-repeat;
+}
+
+.reviewprintoutvirtualsamplebutton-PushButton-up-hovering,.reviewprintoutvirtualsamplebutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/virtualsample/pdfprintoutover.gif)
+		no-repeat;
+}
+
+.reviewprintoutorderbutton-PushButton {
+	width: 157px;
+	height: 37px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/pdfprintoutnormal.gif)
+		no-repeat;
+}
+
+.reviewprintoutorderbutton-PushButton-up-hovering,.reviewprintoutorderbutton-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/order/pdfprintoutover.gif)
+		no-repeat;
+}
+
+.stitchcountexample-PushButton {
+	width: 133px;
+	height: 22px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/stitchcountexamplenormal.jpg)
+		no-repeat;
+}
+
+.stitchcountexample-PushButton-up-hovering,.stitchcountexample-PushButton-down-hovering
+	{
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/stitchcountexampleover.jpg)
+		no-repeat;
+}
+
+.StitchCountExample {
+	background-color: #b51820;
+}
+
+.StitchCountExample .dialogTopLeft,.StitchCountExample .dialogTopRight,.StitchCountExample .dialogBottomLeft,.StitchCountExample .dialogBottomRight
+	{
+	width: 5px;
+	height: 5px;
+}
+
+.help-PushButton {
+	width: 43px;
+	height: 22px;
+	margin-left: 2px;
+	margin-right: 2px;
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/helpnormal.jpg)
+		no-repeat;
+}
+
+.help-PushButton-up-hovering,.help-PushButton-down-hovering {
+	background:
+		url(../resources/images/buzz/onlineworkflow/buttons/helpover.jpg)
+		no-repeat;
+}
+
+.ViewCartColor {
+	background-color: #c3d9ff;
+	cursor: pointer;
+}
+
+.ViewCartColorCorner .topCenter,.ViewCartColorCorner .bottomCenter,.ViewCartColorCorner .middleLeft,.ViewCartColorCorner .middleRight
+	{
+	background-color: #c3d9ff;
+}
+
+.ViewCartColorCorner .topLeftInner,.ViewCartColorCorner .topRightInner,.ViewCartColorCorner .bottomLeftInner,.ViewCartColorCorner .bottomRightInner
+	{
+	width: 5px;
+	height: 5px;
+}
+
+.ViewCartColorCorner .topLeft {
+	background:
+		url(../resources/images/buzz/onlineworkflow/viewcartcorner.png)
+		no-repeat 0px 0px;
+}
+
+.ViewCartColorCorner .topRight {
+	background:
+		url(../resources/images/buzz/onlineworkflow/viewcartcorner.png)
+		no-repeat -5px 0px;
+}
+
+.ViewCartColorCorner .bottomLeft {
+	background:
+		url(../resources/images/buzz/onlineworkflow/viewcartcorner.png)
+		no-repeat 0px -5px;
+}
+
+.ViewCartColorCorner .bottomRight {
+	background:
+		url(../resources/images/buzz/onlineworkflow/viewcartcorner.png)
+		no-repeat -5px -5px;
+}
+
+.ViewCartColorCorner .topLeftInner {
+	width: 5px;
+	height: 5px;
+	overflow: hidden;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../resources/images/buzz/onlineworkflow/viewcartcorner.png',
+		sizingMethod='crop' );
+}
+
+.ViewCartColorCorner .topRightInner {
+	width: 10px;
+	height: 5px;
+	margin-left: -5px;
+	overflow: hidden;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../resources/images/buzz/onlineworkflow/viewcartcorner.png',
+		sizingMethod='crop' );
+}
+
+.ViewCartColorCorner .bottomLeftInner {
+	width: 5px;
+	height: 10px;
+	margin-left: 0px;
+	margin-top: -5px;
+	overflow: hidden;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../resources/images/buzz/onlineworkflow/viewcartcorner.png',
+		sizingMethod='crop' );
+}
+
+.ViewCartColorCorner .bottomRightInner {
+	width: 10px;
+	height: 10px;
+	margin-left: -5px;
+	margin-top: -5px;
+	overflow: hidden;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../resources/images/buzz/onlineworkflow/viewcartcorner.png',
+		sizingMethod='crop' );
+}
